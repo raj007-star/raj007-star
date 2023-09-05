@@ -15,13 +15,8 @@ Here are some of the projects I've worked on:
 - [Taxi Fare Prediction](Link to Project 3) - Description of Project 3.
 
 ## Connect with Me
-- 📧 Email: [swarnavagayen@gmail.com](mailto:swarnavagayen@gmail.com)
-- 💼 LinkedIn: [Swarnava Gayen](https://www.linkedin.com/in/swarnava-gayen)
-- 🐦 Twitter: [@SunsetAdmiirer](https://twitter.com/SunsetAdmiirer)
+📧 Email: [swarnavagayen@gmail.com](mailto:swarnavagayen@gmail.com)    💼 LinkedIn: [Swarnava Gayen](https://www.linkedin.com/in/swarnava-gayen)    🐦 Twitter: [@SunsetAdmiirer](https://twitter.com/SunsetAdmiirer)
   
-📧 Email: [Your Email](mailto:youremail@example.com)
-💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/yourprofile)
-🐦 Twitter: [@YourTwitterHandle](https://twitter.com/yourtwitterhandle)
 
 ## Skills
 - C++
