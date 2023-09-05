@@ -10,8 +10,8 @@ I'm [Swarnava Gayen], a passionate programmer and technology enthusiast with exp
 
 ## Projects
 Here are some of the projects I've worked on:
-- [IoT based Weather Station](Link to Project 1) - Description of Project 1.
-- [IoT based Smart Energy Meter System](Link to Project 2) - Description of Project 2.
+- [IoT based Weather Station](https://github.com/raj007-star/Weather-Station-} - Designed and implemented an IoT-based Weather Station Monitoring System using NodeMCU 8266 and the FC-37 Raindrop Sensor. Collected real-time weather data, including rainfall, and transmitted it to the ThingSpeak cloud platform for storage and visualization. Employed Jupyter Notebook for data analysis, providing valuable insights into weather patterns and trends.
+- [IoT based Smart Energy Meter System](https://github.com/raj007-star/Smart-Energy-Meter) - Created a Smart Energy Meter system, integrating NodeMCU, ACS712 current sensor, and Arduino Uno. This IoT-based solution enables real-time energy monitoring via Adafruit IO and automates alerts through Zapier, empowering users to optimize energy consumption efficiently while enhancing overall sustainability.
 - [Project 3](Link to Project 3) - Description of Project 3.
 
 ## Connect with Me
