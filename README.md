@@ -1,7 +1,7 @@
 # Welcome to my GitHub profile! 👋
 
 ## About Me
-I'm [Swarnava Gayen], a passionate programmer and technology enthusiast with expertise in C++, C, Python, IoT, Cyber Security and Machine Learning.
+I'm Swarnava Gayen, a passionate programmer and technology enthusiast with expertise in C++, C, Python, IoT, Cyber Security and Machine Learning.
 
 ## What I Do
 - 💻 I have experience in software development using C++, C, and Python.
@@ -18,6 +18,10 @@ Here are some of the projects I've worked on:
 - 📧 Email: [swarnavagayen@gmail.com](mailto:swarnavagayen@gmail.com)
 - 💼 LinkedIn: [Swarnava Gayen](https://www.linkedin.com/in/swarnava-gayen)
 - 🐦 Twitter: [@SunsetAdmiirer](https://twitter.com/SunsetAdmiirer)
+  
+📧 Email: [Your Email](mailto:youremail@example.com)
+💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/yourprofile)
+🐦 Twitter: [@YourTwitterHandle](https://twitter.com/yourtwitterhandle)
 
 ## Skills
 - C++
