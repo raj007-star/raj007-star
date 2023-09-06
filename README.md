@@ -5,7 +5,7 @@ I'm Swarnava Gayen, a passionate programmer and technology enthusiast with exper
 
 ## What I Do
 - 💻 I have experience in software development using
-         Programming languages- C++, C, and Python  |  Frameworks- HTML, CSS, NumPy, Pandas, Matplotlib, Bootstrap  |  Tools- MySQL, PHP
+         Programming languages- C++, C, and Python  |  Frameworks- HTML, CSS, NumPy, Pandas, Matplotlib, Bootstrap  |  Tools- MySQL, PHP.
 - 🌐 I'm interested in IoT (Internet of Things) and have worked on various IoT projects.
 - 🤖 I love exploring the fascinating world of Machine Learning and AI.
 
