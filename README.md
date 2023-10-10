@@ -1,4 +1,4 @@
-</p> <img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif"><br>
+</p> <img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif"/></a> </p><br><br>
 
 <h1 align="center">Hi 👋, I'm Swarnava Gayen</h1>
 <h3 align="center">A passionate backend developer from India</h3>
@@ -6,7 +6,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raj007-star&label=Profile%20views&color=0e75b6&style=flat" alt="raj007-star" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=raj007-star&label=Profile%20views&color=0e75b6&style=flat" alt="raj007-star" /></a> </p><br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raj007-star" alt="raj007-star" /></a> </p>
 
