@@ -1,5 +1,5 @@
 # Welcome to my GitHub profile! 👋
-img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif"
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif">
 ## About Me
 I'm Swarnava Gayen, a passionate programmer and technology enthusiast with expertise in C++, C, Python, IoT, Cyber Security and Machine Learning.
 
