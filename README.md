@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Swarnava Gayen</h1>
 <h3 align="center">A passionate backend developer from India</h3>
+</p> <img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raj007-star&label=Profile%20views&color=0e75b6&style=flat" alt="raj007-star" /> </p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=raj007-star&label=Profile%20views&color=0e75b6&style=flat" alt="raj007-star" /> </p><br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raj007-star" alt="raj007-star" /></a> </p>
 
@@ -13,7 +16,7 @@
 
 - 📫 How to reach me **swarnavagayen@gmail.com**
 
-- 📄 Know about my experiences [https://media.licdn.com/dms/image/D562DAQG_TvPVERq6gA/profile-treasury-image-shrink_1280_1280/0/1694692490551?e=1697558400&v=beta&t=WiUpcHaqenZnlvkEGiZUoQk25ljrObmuRtqDa1PuFHk](https://media.licdn.com/dms/image/D562DAQG_TvPVERq6gA/profile-treasury-image-shrink_1280_1280/0/1694692490551?e=1697558400&v=beta&t=WiUpcHaqenZnlvkEGiZUoQk25ljrObmuRtqDa1PuFHk)
+- 📄 Know about my experiences [RESUME](https://media.licdn.com/dms/image/D562DAQG_TvPVERq6gA/profile-treasury-image-shrink_1280_1280/0/1694692490551?e=1697558400&v=beta&t=WiUpcHaqenZnlvkEGiZUoQk25ljrObmuRtqDa1PuFHk)
 
 - ⚡ Fun fact **I once tried to teach my pet goldfish how to use version control. Needless to say, it didn't commit to the idea!**
 
@@ -29,7 +32,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/onichann"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="onichann" /></a><a href="https://ko-fi.com/onichann"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="onichann" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raj007-star&show_icons=true&locale=en&layout=compact" alt="raj007-star" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=raj007-star&show_icons=true&locale=en&layout=compact" alt="raj007-star" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raj007-star&show_icons=true&locale=en" alt="raj007-star" /></p>
 
