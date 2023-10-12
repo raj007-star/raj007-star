@@ -1,4 +1,4 @@
-<div align="center"> <gif src= "https://github.com/raj007-star/.github/blob/f4df4768fbe085dd7c3a28d53683db224ff8bf18/assets/github-header-image.gif"> </div> 
+<div align="center"> <img src= "https://github.com/raj007-star/.github/blob/f4df4768fbe085dd7c3a28d53683db224ff8bf18/assets/github-header-image.png"> </div> 
 <h1 align="center">Hi 👋, I'm Swarnava Gayen</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 <img align= "center" alt="Coding" width="500" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif"/>
