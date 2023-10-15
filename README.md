@@ -14,7 +14,7 @@ I love coding, a passionate programmer and technology enthusiast with expertise 
 
 * 🌍  I'm based in, India.
 * 🖥️  Know about my experiences  [Resume](http://https://media.licdn.com/dms/image/D562DAQG_TvPVERq6gA/profile-treasury-image-shrink_1280_1280/0/1694692490551?e=1697558400&v=beta&t=WiUpcHaqenZnlvkEGiZUoQk25ljrObmuRtqDa1PuFHk)
-* ✉️  You can contact me at [swarnavagayen@gmail.com](mailto:swarnavagayen@gmail.com)
+* ✉️  You can contact me at [Email](mailto:swarnavagayen@gmail.com)
 * 🚀  I'm currently working on [Data Structures and Building Projects](http://learning/everyday/consistently?Yes)
 * 🧠  I'm learning a new framework.
 * 🤝  I'm open to collaborating on interesting Projects.
