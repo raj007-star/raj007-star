@@ -10,14 +10,14 @@
 Aspiring Software Engineer
 -----------------
 
-I love coding, a passionate programmer and technology enthusiast with expertise in C++, C, Python, IoT, Cyber Security and Machine Learning.
+I love coding and am a passionate programmer and technology enthusiast with expertise in C++, C, Python, IoT, cyber security, and machine learning.
 
-* 🌍  I'm based in, India.
-* 🖥️  Know about my experiences  [Resume](http://https://media.licdn.com/dms/image/D562DAQG_TvPVERq6gA/profile-treasury-image-shrink_1280_1280/0/1694692490551?e=1697558400&v=beta&t=WiUpcHaqenZnlvkEGiZUoQk25ljrObmuRtqDa1PuFHk)
+* 🌍  I'm based in India.
+* 🖥️  Know about my experiences  [Resume](https://teal-melony-47.tiiny.site)
 * ✉️  You can contact me at [Email](mailto:swarnavagayen@gmail.com)
 * 🚀  I'm currently working on [Data Structures and Building Projects](http://learning/everyday/consistently?Yes)
 * 🧠  I'm learning a new framework.
-* 🤝  I'm open to collaborating on interesting Projects.
+* 🤝  I'm open to collaborating on interesting projects.
 * ⚡  Fun fact: I once tried to teach my pet goldfish how to use version control. Needless to say, it didn't commit to the idea!
 
 <a href="https://www.x.com/SunsetAdmiirer" target="_blank" rel="noreferrer"><img
