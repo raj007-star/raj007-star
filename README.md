@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raj007-star&label=Profile%20views&color=0e75b6&style=flat" alt="raj007-star" /></a> </p><br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=raj007-star&label=Profile%20views&color=0e75b6&style=flat" alt="raj007-star" /></a> </p> <br>
 
 
 <img align="center" alt="Bg" src="https://github.com/raj007-star/.github/blob/f4df4768fbe085dd7c3a28d53683db224ff8bf18/assets/github-header-image.png"> 
