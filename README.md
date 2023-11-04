@@ -4,7 +4,7 @@
 <img align="center" alt="Bg" src="https://github.com/raj007-star/.github/blob/f4df4768fbe085dd7c3a28d53683db224ff8bf18/assets/github-header-image.png"> 
 <h1 align="center">Hi 👋, I'm Swarnava Gayen</h1>
 <h3 align="center">A passionate backend developer from India</h3>
-<img align= "center" alt="Coding" width="500" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif"/>
+<img align= "center" alt="Coding" width="500" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif"/>
 
 
 Aspiring Software Engineer
@@ -12,13 +12,13 @@ Aspiring Software Engineer
 
 I love coding and am a passionate programmer and technology enthusiast with expertise in C++, C, Python, IoT, cyber security, and machine learning.
 
-* 🌍  I'm based in India.
-* 🖥️  Know about my experiences  [Resume](https://teal-melony-47.tiiny.site)
-* ✉️  You can contact me at [Email](mailto:swarnavagayen@gmail.com)
-* 🚀  I'm currently working on [Data Structures and Building Projects](http://learning/everyday/consistently?Yes)
-* 🧠  I'm learning a new framework.
-* 🤝  I'm open to collaborating on interesting projects.
-* ⚡  Fun fact: I once tried to teach my pet goldfish how to use version control. Needless to say, it didn't commit to the idea!
+* 🌍  *I'm based in India.*
+* 🖥️  *Know about my experiences  [Resume](https://teal-melony-47.tiiny.site)*
+* ✉️  *You can contact me at [Email](mailto:swarnavagayen@gmail.com)*
+* 🚀  *I'm currently working on [Data Structures and Building Projects](http://learning/everyday/consistently?Yes)*
+* 🧠  *I'm learning a new framework.*
+* 🤝  *I'm open to collaborating on interesting projects.*
+* ⚡  *Fun fact: I once tried to teach my pet goldfish how to use version control. Needless to say, it didn't commit to the idea!*
 
 <a href="https://www.x.com/SunsetAdmiirer" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/SunsetAdmiirer?logo=twitter&style=for-the-badge&color=0891b2&labelColor=27272a"
