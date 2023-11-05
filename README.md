@@ -29,9 +29,7 @@ I love coding and am a passionate programmer and technology enthusiast with expe
  ⚡  *Fun fact: I once tried to teach my pet goldfish how to use version control. Needless to say, it didn't commit to the idea!*
 
 
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/SunsetAdmiirer)
-
-
+[![Twitter Follow](https://img.shields.io/twitter/follow/SunsetAdmiirer?label=Follow%20@SunsetAdmiirer&style=social)](https://twitter.com/SunsetAdmiirer)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raj007-star" alt="raj007-star" /></a> </p>
 
