@@ -28,9 +28,10 @@ I love coding and am a passionate programmer and technology enthusiast with expe
  
  ⚡  *Fun fact: I once tried to teach my pet goldfish how to use version control. Needless to say, it didn't commit to the idea!*
 
-<a href="https://www.x.com/SunsetAdmiirer" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/SunsetAdmiirer?logo=twitter&style=for-the-badge&color=0891b2&labelColor=27272a"
-/></a>
+
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/SunsetAdmiirer)
+
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raj007-star" alt="raj007-star" /></a> </p>
 
