@@ -1,14 +1,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raj007-star&label=Profile%20views&color=0e75b6&style=flat" alt="raj007-star" /></a> </p> <br>
 
-
 <img align="center" alt="Bg" src="https://github.com/raj007-star/.github/blob/f4df4768fbe085dd7c3a28d53683db224ff8bf18/assets/github-header-image.png"> 
 <h1 align="center">Hi 👋, I'm Swarnava Gayen</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 <div align="center">
   <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" />
 
-  
+ 
 Aspiring Software Engineer
+
+<img src='URL' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 -----------------
 </div>
 
@@ -27,6 +28,9 @@ I love coding and am a passionate programmer and technology enthusiast with expe
  🤝  *I'm open to collaborating on interesting projects.*
  
  ⚡  *Fun fact: I once tried to teach my pet goldfish how to use version control. Needless to say, it didn't commit to the idea!*
+
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/SunsetAdmiirer?label=Follow%20@SunsetAdmiirer&style=social)](https://twitter.com/SunsetAdmiirer)
