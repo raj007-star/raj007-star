@@ -33,7 +33,8 @@ I love coding and am a passionate programmer and technology enthusiast with expe
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/SunsetAdmiirer?label=Follow%20@SunsetAdmiirer&style=social)](https://twitter.com/SunsetAdmiirer)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raj007-star" alt="raj007-star" /></a> </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=raj007-star&theme=onedark)](https://github.com/raj007-star/github-profile-trophy)
 
 ### Languages and Tools
 
