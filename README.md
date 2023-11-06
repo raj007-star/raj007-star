@@ -27,7 +27,6 @@ I love coding and am a passionate programmer and technology enthusiast with expe
  
  ⚡  *Fun fact: I once tried to teach my pet goldfish how to use version control. Needless to say, it didn't commit to the idea!*
 
-
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
